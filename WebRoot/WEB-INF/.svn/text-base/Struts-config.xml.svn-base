@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mystruts-config>
+	<action-mapping>
+		<action path="/login"  name="loginform" input="login.jsp" type="actions.ActionLogin">
+		<forward name="success" path="success.jsp"/>
+		<forward name="fail" path="fail.jsp"/>
+		</action>
+		
+		<action path="/regedit"  name="regform" input="zhuce.jsp" type="actions.ActionRegedit">
+		<forward name="success" path="index.jsp"/>
+		<forward name="fail" path="fail.jsp"/>
+		</action>
+		
+	</action-mapping>
+	<form-beans>
+		<form-bean name="loginform" type="forms.LoginForm"/>
+		<form-bean name="regform" type="forms.RegeditForm"/>
+	</form-beans>
+</mystruts-config>

@@ -1,0 +1,23 @@
+#Wed Mar 18 09:47:47 CST 2015
+eclipse.preferences.version=1
+encoding//WebRoot/css/calendar.css=UTF-8
+encoding//WebRoot/houtai/fukuanok.jsp=UTF-8
+encoding//WebRoot/images=UTF-8
+encoding//WebRoot/images/index000.js=UTF-8
+encoding//WebRoot/js/calendar-setup.js=UTF-8
+encoding//WebRoot/js/calendar-zh.js=UTF-8
+encoding//src/actions/login/ActionLogin.java=UTF-8
+encoding//src/actions/shanghu/NewShanghu.java=UTF-8
+encoding//src/actions/shanghu/Shanghu.java=UTF-8
+encoding//src/dao/friendlink/FriendlinkDaoImp.java=gbk
+encoding//src/dao/jdbc/DbUtil.java=gbk
+encoding//src/dao/tuangou/NewCreateDao.java=UTF-8
+encoding//src/dao/tuangou/NewCreateImp.java=UTF-8
+encoding//src/filter/utf_8/CodeFilter.java=UTF-8
+encoding//src/forms/tuangou/TuanGouForm.java=utf-8
+encoding//src/mystruts/Action.java=UTF-8
+encoding//src/mystruts/ActionForward.java=UTF-8
+encoding//src/mystruts/ActionMapping.java=UTF-8
+encoding//src/mystruts/ActionServlet.java=UTF-8
+encoding//src/mystruts/Configuration.java=UTF-8
+encoding/WebRoot=UTF-8

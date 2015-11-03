@@ -1,0 +1,388 @@
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="">
+<head>
+	<meta http-equiv=content-type content="text/html; charset=UTF-8;charset=utf-8"/>
+	<title>美团 - 精品团购每一天|全国购物|全国团购|全国打折</title>
+	<meta name="description" content="精品团购每一天|全国购物|全国团购|全国打折" />
+	<meta name="keywords" content="美团, 全国, 全国美团，全国购物，全国团购，全国打折，团购，打折，精品消费，购物指南，消费指南" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<link href="http://192.168.2.24/mtw/feed.php?ename=" rel="alternate" title="订阅更新" type="application/rss+xml" />
+	<link rel="shortcut icon" href="files/index_files/favicon1.ico" />
+	<link rel="stylesheet" href="files/index_files/index001.css" type="text/css" media="screen" charset="utf-8" />
+	<script type="text/javascript">var WEB_ROOT = '/mtw';</script>
+	<script type="text/javascript">var LOGINUID= 0;</script>
+	<script src="files/index_files/index001.js" type="text/javascript"></script>
+	</head>
+<body class="bg-alt">
+<div id="pagemasker"></div><div id="dialog"></div>
+<div id="doc">
+
+<div id="hdw">
+	<div id="hd">
+		<div id="logo"><a href="" class="link"><img src="files/index_files/logo0001.gif" /></a></div>
+		<div class="guides">
+			<div class="city">
+				<h2>全国</h2>
+			</div>
+						<div id="guides-city-change" class="change">切换城市</div>
+			<div id="guides-city-list" class="city-list">
+				<ul><li><a href="http://192.168.2.24/mtw/city.php?ename=jinan">济南</a></li><li><a href="http://192.168.2.24/mtw/city.php?ename=shanghai">上海</a></li></ul>
+			</div>
+					</div>
+		<div id="header-subscribe-body" class="subscribe">
+		<form action="http://192.168.2.24/mtw/subscribe.php" method="post" id="header-subscribe-form">
+			<label for="header-subscribe-email" class="text">想知道全国明天的团购是什么吗？</label>
+			<input type="hidden" name="city_id" value="0" />
+			<input id="header-subscribe-email" type="text" xtip="输入Email，订阅每日团购信息..." value="" class="f-text" name="email" />
+			<input type="hidden" value="1" name="cityid" />
+			<input type="submit" class="commit" value="订阅" />
+		</form>
+				<span><a class="sms" onclick="X.miscajax('sms','subscribe');">&raquo; 短信订阅，免费！</a>&nbsp; <a class="sms" onclick="X.miscajax('sms','unsubscribe');">&raquo; 取消手机订阅</a></span>
+				</div>
+		<ul class="nav cf"><li><a href="">今日团购</a></li><li><a href="http://192.168.2.24/mtw/team/index.php">往期团购</a></li><li><a href="http://192.168.2.24/mtw/help/tour.php">玩转美团</a></li><li><a href="http://192.168.2.24/mtw/forum/index.php">讨论区</a></li></ul>
+		<div class="refer">&raquo;&nbsp;<a href="http://192.168.2.24/mtw/subscribe.php">邮件订阅</a>&nbsp;&nbsp;&nbsp;&raquo;&nbsp;<a href="http://192.168.2.24/mtw/account/invite.php">邀请好友</a>&nbsp;&nbsp;&nbsp;&raquo;&nbsp;<a id="verify-coupon-id" href="javascript:;">优惠券验证及消费登记</a>
+		</div>
+				<div class="logins">
+			<ul id="account">
+				<li class="login"><a href="http://192.168.2.24/mtw/account/login.php">登录</a></li>
+				<li class="signup"><a href="http://192.168.2.24/mtw/account/signup.php">注册</a></li>				</ul>
+			<div class="line "></div>
+		</div>
+			</div>
+</div>
+
+	<link rel="stylesheet" href="files/index_files/other001.htm" type="text/css" media="screen" charset="utf-8" />
+<div id="bdw" class="bdw">
+<div id="bd" class="cf">
+<div id="sysmsg-guide"><div class="link"><a href="http://192.168.2.24/mtw/help/tour.php"></a></div><a id="sysmsg-guide-close" href="javascript:void(0);" class="close">关闭</a></div>
+
+
+
+	<div id="deal-default">
+
+	  <div id="content">			
+																
+
+<div id="deal-share">
+	<div class="deal-share-top">
+		<div class="deal-share-links">
+			<h4>分享到：</h4>
+			<ul class="cf">
+			<li><a class="kaixin" href="http://www.kaixin001.com/repaste/share.php?rurl=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D4%26r%3D0&rtitle=%E4%BB%85%E5%94%AE7.9%E5%85%83%EF%BC%81%E5%8E%9F%E4%BB%B718%E5%85%83%E7%9A%84%E6%B5%AA%E8%8E%8E%E5%8C%85%E8%8A%AF%E4%B8%9D%E7%BE%8E%E8%85%BF%E5%A4%9A%E5%BD%A9%E8%BF%9E%E8%A3%A4%E8%A2%9C1%E6%9D%A1%EF%BC%88%E9%BB%91%E8%89%B2%2F%E8%82%A4%E8%89%B2%2F%E5%A2%A8%E7%BB%BF%E8%89%B2%2F%E6%B7%B1%E7%B4%AB%E8%89%B2%2F%E6%B5%85%E7%81%B0%E8%89%B2%2F%E6%B7%B1%E7%81%B0%E8%89%B2%2F%E5%92%96%E5%95%A1%E8%89%B2%EF%BC%8C7%E8%89%B2%E4%BB%BB%E9%80%89%EF%BC%89%E3%80%82%E9%80%8F%E6%B0%94%E3%80%81%E6%9F%94%E8%BD%AF%E3%80%81%E8%88%92%E9%80%82%EF%BC%8C%E8%AE%A9%E9%9E%8B%E4%B8%8E%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%AD%A4%E9%BB%98%E5%A5%91%E3%80%82%E8%BF%99%E4%B8%AA%E6%98%A5%E5%A4%A9%EF%BC%8C%E6%B5%AA%E8%8E%8E%E4%B8%8E%E6%82%A8%E4%B8%80%E5%90%8C%E8%BF%8E%E6%8E%A5%E7%BE%8E%E4%B8%BD%EF%BC%81&rcontent=%E9%98%B2%E4%BC%AA%E6%A0%87%E7%A0%81%EF%BC%8C%E6%AD%A3%E5%93%81%E4%BF%9D%E8%AF%81%0D%0A%E5%8C%85%E8%8A%AF%E4%B8%9D%E7%BB%A2%EF%BC%8C%E9%80%8F%E6%B0%94%E8%88%92%E9%80%82%0D%0A%E4%B8%83%E8%89%B2%E4%BB%BB%E9%80%89%EF%BC%8C%E4%BF%AE%E8%BA%AB%E6%B0%94%E8%B4%A8" target="_blank">开心</a></li>
+			<li><a class="renren" href="http://share.renren.com/share/buttonshare.do?link=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D4%26r%3D0&title=%E4%BB%85%E5%94%AE7.9%E5%85%83%EF%BC%81%E5%8E%9F%E4%BB%B718%E5%85%83%E7%9A%84%E6%B5%AA%E8%8E%8E%E5%8C%85%E8%8A%AF%E4%B8%9D%E7%BE%8E%E8%85%BF%E5%A4%9A%E5%BD%A9%E8%BF%9E%E8%A3%A4%E8%A2%9C1%E6%9D%A1%EF%BC%88%E9%BB%91%E8%89%B2%2F%E8%82%A4%E8%89%B2%2F%E5%A2%A8%E7%BB%BF%E8%89%B2%2F%E6%B7%B1%E7%B4%AB%E8%89%B2%2F%E6%B5%85%E7%81%B0%E8%89%B2%2F%E6%B7%B1%E7%81%B0%E8%89%B2%2F%E5%92%96%E5%95%A1%E8%89%B2%EF%BC%8C7%E8%89%B2%E4%BB%BB%E9%80%89%EF%BC%89%E3%80%82%E9%80%8F%E6%B0%94%E3%80%81%E6%9F%94%E8%BD%AF%E3%80%81%E8%88%92%E9%80%82%EF%BC%8C%E8%AE%A9%E9%9E%8B%E4%B8%8E%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%AD%A4%E9%BB%98%E5%A5%91%E3%80%82%E8%BF%99%E4%B8%AA%E6%98%A5%E5%A4%A9%EF%BC%8C%E6%B5%AA%E8%8E%8E%E4%B8%8E%E6%82%A8%E4%B8%80%E5%90%8C%E8%BF%8E%E6%8E%A5%E7%BE%8E%E4%B8%BD%EF%BC%81" target="_blank">人人</a></li>
+			<li><a class="douban" href="http://www.douban.com/recommend/?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D4%26r%3D0&title=%E4%BB%85%E5%94%AE7.9%E5%85%83%EF%BC%81%E5%8E%9F%E4%BB%B718%E5%85%83%E7%9A%84%E6%B5%AA%E8%8E%8E%E5%8C%85%E8%8A%AF%E4%B8%9D%E7%BE%8E%E8%85%BF%E5%A4%9A%E5%BD%A9%E8%BF%9E%E8%A3%A4%E8%A2%9C1%E6%9D%A1%EF%BC%88%E9%BB%91%E8%89%B2%2F%E8%82%A4%E8%89%B2%2F%E5%A2%A8%E7%BB%BF%E8%89%B2%2F%E6%B7%B1%E7%B4%AB%E8%89%B2%2F%E6%B5%85%E7%81%B0%E8%89%B2%2F%E6%B7%B1%E7%81%B0%E8%89%B2%2F%E5%92%96%E5%95%A1%E8%89%B2%EF%BC%8C7%E8%89%B2%E4%BB%BB%E9%80%89%EF%BC%89%E3%80%82%E9%80%8F%E6%B0%94%E3%80%81%E6%9F%94%E8%BD%AF%E3%80%81%E8%88%92%E9%80%82%EF%BC%8C%E8%AE%A9%E9%9E%8B%E4%B8%8E%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%AD%A4%E9%BB%98%E5%A5%91%E3%80%82%E8%BF%99%E4%B8%AA%E6%98%A5%E5%A4%A9%EF%BC%8C%E6%B5%AA%E8%8E%8E%E4%B8%8E%E6%82%A8%E4%B8%80%E5%90%8C%E8%BF%8E%E6%8E%A5%E7%BE%8E%E4%B8%BD%EF%BC%81" target="_blank">豆瓣</a></li>
+			<li><a class="sina" href="http://v.t.sina.com.cn/share/share.php?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D4%26r%3D0&title=%E4%BB%85%E5%94%AE7.9%E5%85%83%EF%BC%81%E5%8E%9F%E4%BB%B718%E5%85%83%E7%9A%84%E6%B5%AA%E8%8E%8E%E5%8C%85%E8%8A%AF%E4%B8%9D%E7%BE%8E%E8%85%BF%E5%A4%9A%E5%BD%A9%E8%BF%9E%E8%A3%A4%E8%A2%9C1%E6%9D%A1%EF%BC%88%E9%BB%91%E8%89%B2%2F%E8%82%A4%E8%89%B2%2F%E5%A2%A8%E7%BB%BF%E8%89%B2%2F%E6%B7%B1%E7%B4%AB%E8%89%B2%2F%E6%B5%85%E7%81%B0%E8%89%B2%2F%E6%B7%B1%E7%81%B0%E8%89%B2%2F%E5%92%96%E5%95%A1%E8%89%B2%EF%BC%8C7%E8%89%B2%E4%BB%BB%E9%80%89%EF%BC%89%E3%80%82%E9%80%8F%E6%B0%94%E3%80%81%E6%9F%94%E8%BD%AF%E3%80%81%E8%88%92%E9%80%82%EF%BC%8C%E8%AE%A9%E9%9E%8B%E4%B8%8E%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%AD%A4%E9%BB%98%E5%A5%91%E3%80%82%E8%BF%99%E4%B8%AA%E6%98%A5%E5%A4%A9%EF%BC%8C%E6%B5%AA%E8%8E%8E%E4%B8%8E%E6%82%A8%E4%B8%80%E5%90%8C%E8%BF%8E%E6%8E%A5%E7%BE%8E%E4%B8%BD%EF%BC%81" target="_blank">新浪微博</a></li>
+			<li><a class="email" href="mailto:?subject=%D3%D0%D0%CB%C8%A4%C2%F0%A3%BA%BD%F6%CA%DB7.9%D4%AA%A3%A1%D4%AD%BC%DB18%D4%AA%B5%C4%C0%CB%C9%AF%B0%FC%D0%BE%CB%BF%C3%C0%CD%C8%B6%E0%B2%CA%C1%AC%BF%E3%CD%E01%CC%F5%A3%A8%BA%DA%C9%AB%2F%B7%F4%C9%AB%2F%C4%AB%C2%CC%C9%AB%2F%C9%EE%D7%CF%C9%AB%2F%C7%B3%BB%D2%C9%AB%2F%C9%EE%BB%D2%C9%AB%2F%BF%A7%B7%C8%C9%AB%A3%AC7%C9%AB%C8%CE%D1%A1%A3%A9%A1%A3%CD%B8%C6%F8%A1%A2%C8%E1%C8%ED%A1%A2%CA%E6%CA%CA%A3%AC%C8%C3%D0%AC%D3%EB%CB%AB%BD%C5%B4%D3%B4%CB%C4%AC%C6%F5%A1%A3%D5%E2%B8%F6%B4%BA%CC%EC%A3%AC%C0%CB%C9%AF%D3%EB%C4%FA%D2%BB%CD%AC%D3%AD%BD%D3%C3%C0%C0%F6%A3%A1&body=%B7%A2%CF%D6%D2%BB%BA%C3%CD%F8%D5%BE--%C3%C0%CD%C5%A3%AC%CB%FB%C3%C7%C3%BF%CC%EC%D7%E9%D6%AF%D2%BB%B4%CE%CD%C5%B9%BA%A3%AC%B3%AC%D6%B5%A3%A1%0A%0A%BD%F1%CC%EC%B5%C4%CD%C5%B9%BA%CA%C7%A3%BA%BD%F6%CA%DB7.9%D4%AA%A3%A1%D4%AD%BC%DB18%D4%AA%B5%C4%C0%CB%C9%AF%B0%FC%D0%BE%CB%BF%C3%C0%CD%C8%B6%E0%B2%CA%C1%AC%BF%E3%CD%E01%CC%F5%A3%A8%BA%DA%C9%AB%2F%B7%F4%C9%AB%2F%C4%AB%C2%CC%C9%AB%2F%C9%EE%D7%CF%C9%AB%2F%C7%B3%BB%D2%C9%AB%2F%C9%EE%BB%D2%C9%AB%2F%BF%A7%B7%C8%C9%AB%A3%AC7%C9%AB%C8%CE%D1%A1%A3%A9%A1%A3%CD%B8%C6%F8%A1%A2%C8%E1%C8%ED%A1%A2%CA%E6%CA%CA%A3%AC%C8%C3%D0%AC%D3%EB%CB%AB%BD%C5%B4%D3%B4%CB%C4%AC%C6%F5%A1%A3%D5%E2%B8%F6%B4%BA%CC%EC%A3%AC%C0%CB%C9%AF%D3%EB%C4%FA%D2%BB%CD%AC%D3%AD%BD%D3%C3%C0%C0%F6%A3%A1%0A%0A%CE%D2%CF%EB%C4%E3%BB%E1%B8%D0%D0%CB%C8%A4%B5%C4%A3%BA%0A%0Ahttp%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D4%26r%3D0" id="deal-buy-mailto">邮件</a></li></ul>
+		</div>
+	</div>
+	<div class="deal-share-fix"></div>
+</div>
+            <div id="deal-intro" class="cf">
+			<div class="no">1</div>			
+ <h1><a class="deal-today-link" href="http://192.168.2.24/mtw/team.php?id=4">今日团购：</a>   <a href="http://192.168.2.24/mtw/team.php?id=4">仅售7.9元！原价18元的浪莎包芯丝美腿多彩连裤袜1条（黑色/肤色/墨绿色/深紫色/浅灰色/深灰色/咖啡色，7色任选）。透气、柔软、舒适，让鞋与双脚从此默契。这个春天，浪莎与您一同迎接美丽！</a></h1>
+                <div class="main">
+                    <div class="deal-buy">
+                        <div class="deal-price-tag"></div>
+					                        <p class="deal-price"><strong>¥7.9</strong><span><a href="http://192.168.2.24/mtw/team.php?id=4"><img src="files/index_files/button-f.gif" /></a></span></p>
+					                    </div>
+                    <table class="deal-discount">
+                        <tr>
+                            <th>原价</th>
+                            <th>折扣</th>
+                            <th>节省</th>
+                        </tr>
+                        <tr>
+                            <td>¥18</td>
+						                            <td>4.39折</td>
+						                            <td>¥10.1</td>
+                        </tr>
+                    </table>
+					                    <div class="deal-box deal-timeleft deal-on" id="deal-timeleft-1" curtime="1303110391000" diff-1="124448009000">
+						<h3>剩余时间</h3>
+						<div class="limitdate" id="ssss"><ul id="counter-1">
+													<li><span>1440</span>天</li><li><span>8</span>小时</li><li><span>53</span>分钟</li>
+												
+						</ul></div>
+					</div>
+					
+														<div class="deal-box deal-status" id="deal-status">
+						<p class="deal-buy-tip-top"><strong>699</strong> 人已购买</p>
+						<div class="progress-pointer" style="padding-left:129px;"><span></span></div>
+						<div class="progress-bar"><div class="progress-left" style="width:129px;"></div><div class="progress-right "></div></div>
+						<div class="cf"><div class="min">0</div><div class="max">1000</div></div>
+						<p class="deal-buy-tip-btm">还差 <strong>301</strong> 人到达最低团购人数</p>
+					</div>
+													</div>
+                <div class="side">
+                  <div class="deal-buy-cover-img" id="team_images">
+							<a href="http://192.168.2.24/mtw/team.php?id=4"><img src="files/index_files/13012128.jpg" width="440" height="280" border="0" /></a> </div>
+				<div class="digest"><br />防伪标码，正品保证<br />
+包芯丝绢，透气舒适<br />
+七色任选，修身气质</div>                </div></div><br/>
+        						
+
+<div id="deal-share">
+	<div class="deal-share-top">
+		<div class="deal-share-links">
+			<h4>分享到：</h4>
+			<ul class="cf">
+			<li><a class="kaixin" href="http://www.kaixin001.com/repaste/share.php?rurl=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D2%26r%3D0&rtitle=%E4%BB%85%E5%94%AE5%E5%85%83%EF%BC%81%E4%BB%B7%E5%80%BC50%E5%85%83%E7%9A%84%E9%87%91%E8%8A%99%E8%93%89%E6%B1%AA%E6%B0%8F%E5%BC%93%E5%B0%84%E5%B0%84%E7%AE%AD%E9%A6%86%E5%B0%84%E5%87%BB%E4%BD%93%E9%AA%8C%EF%BC%88%E5%90%AB%E5%BC%93%E7%AE%AD20%E6%94%AF%EF%BC%89%EF%BC%8C%E4%BB%A5%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BB%A3%E5%BC%AF%E5%BC%93%E5%B0%84%E9%9B%95%E7%9A%84%E8%B1%AA%E8%BF%88%EF%BC%81&rcontent=%E4%BA%AE%E7%82%B9%0D%0A%E4%B8%93%E4%B8%9A%E7%9A%84%E5%B0%84%E7%AE%AD%E9%A6%86%0D%0A%E4%B8%80%E6%B5%81%E7%9A%84%E5%BC%93%E7%AE%AD%E8%AE%BE%E5%A4%87%0D%0A%E8%B6%85%E5%A4%A7%E7%9A%84%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%89%80%0D%0A%E4%B8%93%E4%B8%9A%E7%9A%84%E6%8C%87%E5%AF%BC%E8%80%81%E5%B8%88%0D%0A%E5%AE%8C%E5%A4%87%E7%9A%84%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD" target="_blank">开心</a></li>
+			<li><a class="renren" href="http://share.renren.com/share/buttonshare.do?link=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D2%26r%3D0&title=%E4%BB%85%E5%94%AE5%E5%85%83%EF%BC%81%E4%BB%B7%E5%80%BC50%E5%85%83%E7%9A%84%E9%87%91%E8%8A%99%E8%93%89%E6%B1%AA%E6%B0%8F%E5%BC%93%E5%B0%84%E5%B0%84%E7%AE%AD%E9%A6%86%E5%B0%84%E5%87%BB%E4%BD%93%E9%AA%8C%EF%BC%88%E5%90%AB%E5%BC%93%E7%AE%AD20%E6%94%AF%EF%BC%89%EF%BC%8C%E4%BB%A5%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BB%A3%E5%BC%AF%E5%BC%93%E5%B0%84%E9%9B%95%E7%9A%84%E8%B1%AA%E8%BF%88%EF%BC%81" target="_blank">人人</a></li>
+			<li><a class="douban" href="http://www.douban.com/recommend/?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D2%26r%3D0&title=%E4%BB%85%E5%94%AE5%E5%85%83%EF%BC%81%E4%BB%B7%E5%80%BC50%E5%85%83%E7%9A%84%E9%87%91%E8%8A%99%E8%93%89%E6%B1%AA%E6%B0%8F%E5%BC%93%E5%B0%84%E5%B0%84%E7%AE%AD%E9%A6%86%E5%B0%84%E5%87%BB%E4%BD%93%E9%AA%8C%EF%BC%88%E5%90%AB%E5%BC%93%E7%AE%AD20%E6%94%AF%EF%BC%89%EF%BC%8C%E4%BB%A5%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BB%A3%E5%BC%AF%E5%BC%93%E5%B0%84%E9%9B%95%E7%9A%84%E8%B1%AA%E8%BF%88%EF%BC%81" target="_blank">豆瓣</a></li>
+			<li><a class="sina" href="http://v.t.sina.com.cn/share/share.php?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D2%26r%3D0&title=%E4%BB%85%E5%94%AE5%E5%85%83%EF%BC%81%E4%BB%B7%E5%80%BC50%E5%85%83%E7%9A%84%E9%87%91%E8%8A%99%E8%93%89%E6%B1%AA%E6%B0%8F%E5%BC%93%E5%B0%84%E5%B0%84%E7%AE%AD%E9%A6%86%E5%B0%84%E5%87%BB%E4%BD%93%E9%AA%8C%EF%BC%88%E5%90%AB%E5%BC%93%E7%AE%AD20%E6%94%AF%EF%BC%89%EF%BC%8C%E4%BB%A5%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BB%A3%E5%BC%AF%E5%BC%93%E5%B0%84%E9%9B%95%E7%9A%84%E8%B1%AA%E8%BF%88%EF%BC%81" target="_blank">新浪微博</a></li>
+			<li><a class="email" href="mailto:?subject=%D3%D0%D0%CB%C8%A4%C2%F0%A3%BA%BD%F6%CA%DB5%D4%AA%A3%A1%BC%DB%D6%B550%D4%AA%B5%C4%BD%F0%DC%BD%C8%D8%CD%F4%CA%CF%B9%AD%C9%E4%C9%E4%BC%FD%B9%DD%C9%E4%BB%F7%CC%E5%D1%E9%A3%A8%BA%AC%B9%AD%BC%FD20%D6%A7%A3%A9%A3%AC%D2%D4%D3%D0%D2%E6%C9%ED%D0%C4%B5%C4%B7%BD%CA%BD%A3%AC%B8%D0%CA%DC%B9%C5%B4%FA%CD%E4%B9%AD%C9%E4%B5%F1%B5%C4%BA%C0%C2%F5%A3%A1&body=%B7%A2%CF%D6%D2%BB%BA%C3%CD%F8%D5%BE--%C3%C0%CD%C5%A3%AC%CB%FB%C3%C7%C3%BF%CC%EC%D7%E9%D6%AF%D2%BB%B4%CE%CD%C5%B9%BA%A3%AC%B3%AC%D6%B5%A3%A1%0A%0A%BD%F1%CC%EC%B5%C4%CD%C5%B9%BA%CA%C7%A3%BA%BD%F6%CA%DB5%D4%AA%A3%A1%BC%DB%D6%B550%D4%AA%B5%C4%BD%F0%DC%BD%C8%D8%CD%F4%CA%CF%B9%AD%C9%E4%C9%E4%BC%FD%B9%DD%C9%E4%BB%F7%CC%E5%D1%E9%A3%A8%BA%AC%B9%AD%BC%FD20%D6%A7%A3%A9%A3%AC%D2%D4%D3%D0%D2%E6%C9%ED%D0%C4%B5%C4%B7%BD%CA%BD%A3%AC%B8%D0%CA%DC%B9%C5%B4%FA%CD%E4%B9%AD%C9%E4%B5%F1%B5%C4%BA%C0%C2%F5%A3%A1%0A%0A%CE%D2%CF%EB%C4%E3%BB%E1%B8%D0%D0%CB%C8%A4%B5%C4%A3%BA%0A%0Ahttp%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D2%26r%3D0" id="deal-buy-mailto">邮件</a></li></ul>
+		</div>
+	</div>
+	<div class="deal-share-fix"></div>
+</div>
+            <div id="deal-intro" class="cf">
+			<div class="no">2</div>			
+ <h1><a class="deal-today-link" href="http://192.168.2.24/mtw/team.php?id=2">今日团购：</a>   <a href="http://192.168.2.24/mtw/team.php?id=2">仅售5元！价值50元的金芙蓉汪氏弓射射箭馆射击体验（含弓箭20支），以有益身心的方式，感受古代弯弓射雕的豪迈！</a></h1>
+                <div class="main">
+                    <div class="deal-buy">
+                        <div class="deal-price-tag"></div>
+					                        <p class="deal-price"><strong>¥1</strong><span><a href="http://192.168.2.24/mtw/team.php?id=2"><img src="files/index_files/button-f.gif" /></a></span></p>
+					                    </div>
+                    <table class="deal-discount">
+                        <tr>
+                            <th>原价</th>
+                            <th>折扣</th>
+                            <th>节省</th>
+                        </tr>
+                        <tr>
+                            <td>¥1</td>
+						                            <td>10折</td>
+						                            <td>¥0</td>
+                        </tr>
+                    </table>
+					                    <div class="deal-box deal-timeleft deal-on" id="deal-timeleft-2" curtime="1303110391000" diff-2="61289609000">
+						<h3>剩余时间</h3>
+						<div class="limitdate" id="ssss"><ul id="counter-2">
+													<li><span>709</span>天</li><li><span>8</span>小时</li><li><span>53</span>分钟</li>
+												
+						</ul></div>
+					</div>
+					
+														<div class="deal-box deal-status" id="deal-status">
+						<p class="deal-buy-tip-top"><strong>0</strong> 人已购买</p>
+						<div class="progress-pointer" style="padding-left:0px;"><span></span></div>
+						<div class="progress-bar"><div class="progress-left" style="width:0px;"></div><div class="progress-right "></div></div>
+						<div class="cf"><div class="min">0</div><div class="max">10</div></div>
+						<p class="deal-buy-tip-btm">还差 <strong>10</strong> 人到达最低团购人数</p>
+					</div>
+													</div>
+                <div class="side">
+                  <div class="deal-buy-cover-img" id="team_images">
+							<a href="http://192.168.2.24/mtw/team.php?id=2"><img src="files/index_files/13011203.jpg" width="440" height="280" border="0" /></a> </div>
+				<div class="digest"><br />亮点<br />
+专业的射箭馆<br />
+一流的弓箭设备<br />
+超大的训练场所<br />
+专业的指导老师<br />
+完备的防护措施</div>                </div></div><br/>
+        						
+
+<div id="deal-share">
+	<div class="deal-share-top">
+		<div class="deal-share-links">
+			<h4>分享到：</h4>
+			<ul class="cf">
+			<li><a class="kaixin" href="http://www.kaixin001.com/repaste/share.php?rurl=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D1%26r%3D0&rtitle=%E4%BB%85%E5%94%AE48%E5%85%83%EF%BC%81%E6%9C%80%E9%AB%98%E4%BB%B7%E5%80%BC127%E5%85%83%E7%9A%84%E9%A3%9F%E5%94%90%E9%99%95%E5%91%B3%E5%8F%8C%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%88%E9%A3%9F%E5%94%90%E6%AD%AA%E7%8C%AA%E8%B9%842%E4%BB%BD%2F%E9%94%85%E4%BB%94%E7%BE%8A%E6%8E%922%E9%80%891%2B%E9%A6%99%E7%82%92%E8%BE%A3%E8%87%8A%E5%AD%90%2B%E9%A3%9F%E5%94%90%E5%87%89%E7%9A%AE%2BBIANGBIANG%E9%9D%A22%E7%A2%97%EF%BC%89%EF%BC%8C%E5%8F%A6%E9%85%8D%E9%99%95%E8%A5%BF%E9%A6%8D2%E4%B8%AA%EF%BC%8C%E5%9E%82%E6%B6%8E%E9%99%95%E5%91%B3%E5%84%BF%E5%B7%B2%E8%89%AF%E4%B9%85%EF%BC%8C%E4%BB%8A%E5%84%BF%E4%B8%AA%E7%BB%88%E4%BA%8E%E8%B5%B6%E4%B8%8A%E5%95%A6%EF%BC%81&rcontent=%E6%9C%89%E6%95%88%E6%9C%9F2%E4%B8%AA%E6%9C%88%EF%BC%8C%E6%88%AA%E6%AD%A2%E8%87%B32011%E5%B9%B45%E6%9C%8826%E6%97%A5%0D%0A%E8%90%A5%E4%B8%9A%E6%97%B6%E9%97%B4%EF%BC%9A11%3A00-14%3A00%2C17%3A00-21%3A00%0D%0A%E8%AF%B7%E8%87%B3%E5%B0%91%E6%8F%90%E5%89%8D1%E5%A4%A9%E8%87%B4%E7%94%B587062122%E9%A2%84%E7%BA%A6" target="_blank">开心</a></li>
+			<li><a class="renren" href="http://share.renren.com/share/buttonshare.do?link=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D1%26r%3D0&title=%E4%BB%85%E5%94%AE48%E5%85%83%EF%BC%81%E6%9C%80%E9%AB%98%E4%BB%B7%E5%80%BC127%E5%85%83%E7%9A%84%E9%A3%9F%E5%94%90%E9%99%95%E5%91%B3%E5%8F%8C%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%88%E9%A3%9F%E5%94%90%E6%AD%AA%E7%8C%AA%E8%B9%842%E4%BB%BD%2F%E9%94%85%E4%BB%94%E7%BE%8A%E6%8E%922%E9%80%891%2B%E9%A6%99%E7%82%92%E8%BE%A3%E8%87%8A%E5%AD%90%2B%E9%A3%9F%E5%94%90%E5%87%89%E7%9A%AE%2BBIANGBIANG%E9%9D%A22%E7%A2%97%EF%BC%89%EF%BC%8C%E5%8F%A6%E9%85%8D%E9%99%95%E8%A5%BF%E9%A6%8D2%E4%B8%AA%EF%BC%8C%E5%9E%82%E6%B6%8E%E9%99%95%E5%91%B3%E5%84%BF%E5%B7%B2%E8%89%AF%E4%B9%85%EF%BC%8C%E4%BB%8A%E5%84%BF%E4%B8%AA%E7%BB%88%E4%BA%8E%E8%B5%B6%E4%B8%8A%E5%95%A6%EF%BC%81" target="_blank">人人</a></li>
+			<li><a class="douban" href="http://www.douban.com/recommend/?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D1%26r%3D0&title=%E4%BB%85%E5%94%AE48%E5%85%83%EF%BC%81%E6%9C%80%E9%AB%98%E4%BB%B7%E5%80%BC127%E5%85%83%E7%9A%84%E9%A3%9F%E5%94%90%E9%99%95%E5%91%B3%E5%8F%8C%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%88%E9%A3%9F%E5%94%90%E6%AD%AA%E7%8C%AA%E8%B9%842%E4%BB%BD%2F%E9%94%85%E4%BB%94%E7%BE%8A%E6%8E%922%E9%80%891%2B%E9%A6%99%E7%82%92%E8%BE%A3%E8%87%8A%E5%AD%90%2B%E9%A3%9F%E5%94%90%E5%87%89%E7%9A%AE%2BBIANGBIANG%E9%9D%A22%E7%A2%97%EF%BC%89%EF%BC%8C%E5%8F%A6%E9%85%8D%E9%99%95%E8%A5%BF%E9%A6%8D2%E4%B8%AA%EF%BC%8C%E5%9E%82%E6%B6%8E%E9%99%95%E5%91%B3%E5%84%BF%E5%B7%B2%E8%89%AF%E4%B9%85%EF%BC%8C%E4%BB%8A%E5%84%BF%E4%B8%AA%E7%BB%88%E4%BA%8E%E8%B5%B6%E4%B8%8A%E5%95%A6%EF%BC%81" target="_blank">豆瓣</a></li>
+			<li><a class="sina" href="http://v.t.sina.com.cn/share/share.php?url=http%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D1%26r%3D0&title=%E4%BB%85%E5%94%AE48%E5%85%83%EF%BC%81%E6%9C%80%E9%AB%98%E4%BB%B7%E5%80%BC127%E5%85%83%E7%9A%84%E9%A3%9F%E5%94%90%E9%99%95%E5%91%B3%E5%8F%8C%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%88%E9%A3%9F%E5%94%90%E6%AD%AA%E7%8C%AA%E8%B9%842%E4%BB%BD%2F%E9%94%85%E4%BB%94%E7%BE%8A%E6%8E%922%E9%80%891%2B%E9%A6%99%E7%82%92%E8%BE%A3%E8%87%8A%E5%AD%90%2B%E9%A3%9F%E5%94%90%E5%87%89%E7%9A%AE%2BBIANGBIANG%E9%9D%A22%E7%A2%97%EF%BC%89%EF%BC%8C%E5%8F%A6%E9%85%8D%E9%99%95%E8%A5%BF%E9%A6%8D2%E4%B8%AA%EF%BC%8C%E5%9E%82%E6%B6%8E%E9%99%95%E5%91%B3%E5%84%BF%E5%B7%B2%E8%89%AF%E4%B9%85%EF%BC%8C%E4%BB%8A%E5%84%BF%E4%B8%AA%E7%BB%88%E4%BA%8E%E8%B5%B6%E4%B8%8A%E5%95%A6%EF%BC%81" target="_blank">新浪微博</a></li>
+			<li><a class="email" href="mailto:?subject=%D3%D0%D0%CB%C8%A4%C2%F0%A3%BA%BD%F6%CA%DB48%D4%AA%A3%A1%D7%EE%B8%DF%BC%DB%D6%B5127%D4%AA%B5%C4%CA%B3%CC%C6%C9%C2%CE%B6%CB%AB%C8%CB%CC%D7%B2%CD%A3%A8%CA%B3%CC%C6%CD%E1%D6%ED%CC%E32%B7%DD%2F%B9%F8%D7%D0%D1%F2%C5%C52%D1%A11%2B%CF%E3%B3%B4%C0%B1%EB%FD%D7%D3%2B%CA%B3%CC%C6%C1%B9%C6%A4%2BBIANGBIANG%C3%E62%CD%EB%A3%A9%A3%AC%C1%ED%C5%E4%C9%C2%CE%F7%E2%C92%B8%F6%A3%AC%B4%B9%CF%D1%C9%C2%CE%B6%B6%F9%D2%D1%C1%BC%BE%C3%A3%AC%BD%F1%B6%F9%B8%F6%D6%D5%D3%DA%B8%CF%C9%CF%C0%B2%A3%A1&body=%B7%A2%CF%D6%D2%BB%BA%C3%CD%F8%D5%BE--%C3%C0%CD%C5%A3%AC%CB%FB%C3%C7%C3%BF%CC%EC%D7%E9%D6%AF%D2%BB%B4%CE%CD%C5%B9%BA%A3%AC%B3%AC%D6%B5%A3%A1%0A%0A%BD%F1%CC%EC%B5%C4%CD%C5%B9%BA%CA%C7%A3%BA%BD%F6%CA%DB48%D4%AA%A3%A1%D7%EE%B8%DF%BC%DB%D6%B5127%D4%AA%B5%C4%CA%B3%CC%C6%C9%C2%CE%B6%CB%AB%C8%CB%CC%D7%B2%CD%A3%A8%CA%B3%CC%C6%CD%E1%D6%ED%CC%E32%B7%DD%2F%B9%F8%D7%D0%D1%F2%C5%C52%D1%A11%2B%CF%E3%B3%B4%C0%B1%EB%FD%D7%D3%2B%CA%B3%CC%C6%C1%B9%C6%A4%2BBIANGBIANG%C3%E62%CD%EB%A3%A9%A3%AC%C1%ED%C5%E4%C9%C2%CE%F7%E2%C92%B8%F6%A3%AC%B4%B9%CF%D1%C9%C2%CE%B6%B6%F9%D2%D1%C1%BC%BE%C3%A3%AC%BD%F1%B6%F9%B8%F6%D6%D5%D3%DA%B8%CF%C9%CF%C0%B2%A3%A1%0A%0A%CE%D2%CF%EB%C4%E3%BB%E1%B8%D0%D0%CB%C8%A4%B5%C4%A3%BA%0A%0Ahttp%3A%2F%2F192.168.2.24%2Fmtw%2Fteam.php%3Fid%3D1%26r%3D0" id="deal-buy-mailto">邮件</a></li></ul>
+		</div>
+	</div>
+	<div class="deal-share-fix"></div>
+</div>
+            <div id="deal-intro" class="cf">
+			<div class="no">3</div>			
+ <h1><a class="deal-today-link" href="http://192.168.2.24/mtw/team.php?id=1">今日团购：</a>   <a href="http://192.168.2.24/mtw/team.php?id=1">仅售48元！最高价值127元的食唐陕味双人套餐（食唐歪猪蹄2份/锅仔羊排2选1+香炒辣臊子+食唐凉皮+BIANGBIANG面2碗），另配陕西馍2个，垂涎陕味儿已良久，今儿个终于赶上啦！</a></h1>
+                <div class="main">
+                    <div class="deal-buy">
+                        <div class="deal-price-tag"></div>
+					                        <p class="deal-price"><strong>¥48</strong><span><a href="http://192.168.2.24/mtw/team.php?id=1"><img src="files/index_files/button-f.gif" /></a></span></p>
+					                    </div>
+                    <table class="deal-discount">
+                        <tr>
+                            <th>原价</th>
+                            <th>折扣</th>
+                            <th>节省</th>
+                        </tr>
+                        <tr>
+                            <td>¥100</td>
+						                            <td>4.8折</td>
+						                            <td>¥52</td>
+                        </tr>
+                    </table>
+					                    <div class="deal-box deal-timeleft deal-on" id="deal-timeleft-3" curtime="1303110391000" diff-3="61289609000">
+						<h3>剩余时间</h3>
+						<div class="limitdate" id="ssss"><ul id="counter-3">
+													<li><span>709</span>天</li><li><span>8</span>小时</li><li><span>53</span>分钟</li>
+												
+						</ul></div>
+					</div>
+					
+														<div class="deal-box deal-status" id="deal-status">
+						<p class="deal-buy-tip-top"><strong>5</strong> 人已购买</p>
+						<div class="progress-pointer" style="padding-left:92px;"><span></span></div>
+						<div class="progress-bar"><div class="progress-left" style="width:92px;"></div><div class="progress-right "></div></div>
+						<div class="cf"><div class="min">0</div><div class="max">10</div></div>
+						<p class="deal-buy-tip-btm">还差 <strong>5</strong> 人到达最低团购人数</p>
+					</div>
+													</div>
+                <div class="side">
+                  <div class="deal-buy-cover-img" id="team_images">
+							<a href="http://192.168.2.24/mtw/team.php?id=1"><img src="files/index_files/13011182.jpg" width="440" height="280" border="0" /></a> </div>
+				<div class="digest"><br />有效期2个月，截止至2011年5月26日<br />
+营业时间：11:00-14:00,17:00-21:00<br />
+请至少提前1天致电87062122预约</div>                </div></div><br/>
+        	
+    
+ </div>	
+   <div id="sidebar">
+		<div class="sbox side-invite-tip">
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="tip">
+			<h2>邀请有奖</h2>
+			<p class="text">每邀请一位好友首次购买，您将获<strong><span class="money">¥</span>0</strong>元返利</p>
+			<p class="link"><a href="http://192.168.2.24/mtw/account/invite.php">&raquo;&nbsp;点击获取您的专用邀请链接</a></p>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+		<div class="sbox side-business">
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="tip">
+			<h2>号外</h2>
+			<div><span style="font-family: Tahoma, Helvetica, arial, sans-serif; white-space: normal; font-size: 14px; line-height: 21px; "><h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; font-size: 16px; ">“美梦成真”系列抽奖</h2></span><ul class="lottery-result-list" id="lottery-list" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 16px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“iPad2现货”<a href="http://www.meituan.com/deal/2ipad2" style="color: red; text-decoration: none; ">火爆进行中</a></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“李宇春演唱会”<a href="http://www.meituan.com/lottery/result/liyuchun2011" style="color: red; text-decoration: none; ">抽奖结果</a></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“卫生巾基金”<a href="http://www.meituan.com/lottery/result/38fn" style="color: red; text-decoration: none; ">抽奖结果</a></li></ul></div>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+
+<div class="sbox side-business">
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="tip">
+			<h2>全国公告</h2>
+			<div><span style="font-family: Tahoma, Helvetica, arial, sans-serif; white-space: normal; font-size: 14px; line-height: 21px; "><h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; font-size: 16px; ">“美梦成真”系列抽奖</h2></span><ul class="lottery-result-list" id="lottery-list" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 16px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“iPad2现货”<a href="http://www.meituan.com/deal/2ipad2" style="color: red; text-decoration: none; ">火爆进行中</a></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“李宇春演唱会”<a href="http://www.meituan.com/lottery/result/liyuchun2011" style="color: red; text-decoration: none; ">抽奖结果</a></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 3px; padding-left: 0px; list-style-type: disc; list-style-position: outside; list-style-image: initial; ">“卫生巾基金”<a href="http://www.meituan.com/lottery/result/38fn" style="color: red; text-decoration: none; ">抽奖结果</a></li></ul></div>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+		        <div class="deal-consult sbox">
+	<div class="sbox-bubble"></div>
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="deal-consult-tip">
+			<h2>本单答疑</h2>
+			<p class="nav"><a href="http://192.168.2.24/mtw/team/ask.php?id=1">查看全部(0)</a> | <a href="http://192.168.2.24/mtw/team/ask.php?id=1#post">我要提问</a></p>
+			<ul class="list">
+						</ul>
+			<div class="custom-service"><p class="im"><a id="service-msn-help" href="msnim:chat?contact="><img src="files/index_files/button-g.gif" /></a>&nbsp;<a href="tencent://message/?uin=&Site=%E7%BE%8E%E5%9B%A2&Menu=yes"><img src="files/index_files/button-j.gif" alt=""></a></p><p class="time">周一至周六 9:00-18:00</p></div>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+		<div class="sbox side-business">
+	<div class="sbox-bubble"></div>
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="tip">
+			<h2>我要提供团购信息</h2>
+			<p>消费达人、优质商家、淘宝大卖家们，<a href="http://192.168.2.24/mtw/feedback/seller.php">请点这里</a></p>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+        <div class="deal-subscribe">
+	<div class="top"></div>
+	<div class="body" id="deal-subscribe-body">
+		<form id="deal-subscribe-form" method="post" action="http://192.168.2.24/mtw/subscribe.php"><table class="address"><tr><td><input type="text" name="email" class="f-text" id="deal-subscribe-form-email" xtip="请输入你的Email..." value="" /></td><td><input type="hidden" name="city_id" value="0" /><input type="image" src="files/index_files/button-t.gif" value="订阅" /></td></tr></table></form>
+		<p class="text">每天都有新惊喜，<br />我们会邮件通知您！<br /> <span class="required">*</span> 此服务可以随时取消</p>
+	</div>
+	<div class="bottom"></div>
+</div>
+        <div class="sbox side-business" style="margin-top:20px">
+	<div class="sbox-bubble"></div>
+	<div class="sbox-top"></div>
+	<div class="sbox-content">
+		<div class="tip1">
+			<h2>友情链接</h2>
+			<div><ul> <li>
+<a href="http://tuan.hao123.com/" title="hao123" target="_blank"><img src="http://tuan.hao123.com/static/tg/logo.gif" alt="hao123" /></a></li>
+<li>
+<a href="http://tuan.hao123.com/" title="hao123" target="_blank"><img src="http://tuan.hao123.com/static/tg/logo.gif" alt="hao123" /></a></li>
+<li>
+<a href="http://tuan.hao123.com/" title="团购网站大全" target="_blank"><img src="http://tuan.hao123.com/static/tg/logo.gif" alt="团购网站大全" /></a></li>
+</ul></div>
+		</div>
+	</div>
+	<div class="sbox-bottom"></div>
+</div>
+	</div>
+</div>
+</div> <!-- bd end -->
+</div> <!-- bdw end -->
+<script src="files/index_files/show0001.htm" type="text/javascript"></script>
+<!--script type="text/javascript"> 
+showtime(3);
+</script-->	 
+<div id="ftw">
+	<div id="ft">
+		<p class="contact"><a href="http://192.168.2.24/mtw/feedback/suggest.php">意见反馈</a></p>
+		<ul class="cf">
+			<li class="col">
+				<h3>用户帮助</h3>
+				<ul class="sub-list">
+					<li><a href="http://192.168.2.24/mtw/help/tour.php">玩转美团</a></li>
+					<li><a href="http://192.168.2.24/mtw/help/faqs.php">常见问题</a></li>
+					<li><a href="http://192.168.2.24/mtw/help/zuitu.php">什么是美团</a></li>
+					<li><a href="http://192.168.2.24/mtw/help/api.php">开发API</a></li>
+				</ul>
+			</li>
+			<li class="col">
+				<h3>获取更新</h3>
+				<ul class="sub-list">
+					<li><a href="http://192.168.2.24/mtw/subscribe.php?ename=">邮件订阅</a></li>
+					<li><a href="http://192.168.2.24/mtw/feed.php?ename=">RSS订阅</a></li>
+				</ul>
+			</li>
+			<li class="col">
+				<h3>合作与联系</h3>
+				<ul class="sub-list">
+					<li><a href="http://192.168.2.24/mtw/feedback/seller.php">商务合作</a></li>
+					<li><a href="http://192.168.2.24/mtw/help/link.php">友情链接</a></li>
+					<li><a href="http://192.168.2.24/mtw/biz/index.php">商户后台</a></li>
+									</ul>
+			</li>
+			<li class="col">
+				<h3>公司信息</h3>
+				<ul class="sub-list">
+					<li><a href="http://192.168.2.24/mtw/about/us.php">关于美团</a></li>
+					<li><a href="http://192.168.2.24/mtw/about/job.php">工作机会</a></li>
+					<li><a href="http://192.168.2.24/mtw/about/terms.php">用户协议</a></li>
+					<li><a href="http://192.168.2.24/mtw/about/privacy.php">隐私声明</a></li>
+				</ul>
+			</li>
+			<li class="col end">
+					<div class="logo-footer">
+						<a href="http://192.168.2.24/mtw/"><img src="files/index_files/logo-fop.gif" /></a>
+					</div>
+			</li>
+		</ul>
+		<div class="copyright">
+		<p>&copy;<span>2010</span>&nbsp;美团(now6.cn)版权所有&nbsp;<a href="http://192.168.2.24/mtw/about/terms.php">使用美团前必读</a>&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank"></a>&nbsp;Powered by <a href="http://tuan.now6.cn/" target="_blank">tuan.now6.cn</a></p>
+		</div>
+	</div>
+</div>
+</div>
+</body>
+</html>
+
+<!-- This document saved from http://192.168.2.24/mtw/index.php -->

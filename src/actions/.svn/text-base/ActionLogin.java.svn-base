@@ -1,0 +1,32 @@
+package actions;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import forms.LoginForm;
+
+import mystruts.Action;
+import mystruts.ActionForm;
+import mystruts.ActionForward;
+import mystruts.ActionMapping;
+
+/**
+ * 功能登录类
+ * 
+ * @author liuyong
+ * 
+ */
+public class ActionLogin implements Action {
+
+	public ActionForward execute(ActionForm form, ActionMapping mapping,
+			HttpServletRequest request, HttpServletResponse response) {
+		ActionForward forward = null;
+		if ("lmy".equals(((LoginForm) form).getSname())
+				&& 123 == ((LoginForm) form).getSpass()) {
+			forward = mapping.getForwards().get("success");
+		} else {
+			forward = mapping.getForwards().get("fail");
+		}
+		return forward;
+	}
+}

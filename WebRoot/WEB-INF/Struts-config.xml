@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mystruts-config>
+	<action-mapping>
+		<action path="/login" name="userform" input="login.jsp"
+			type="actions.login.ActionLogin">
+			<forward name="success" path="qiantai/index.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		
+		<action path="/indo" name="userform" input="index.jsp"
+			type="actions.city.ActionOneCity">
+			<forward name="success" path="qiantai/index.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		
+		<action path="/index" name="loginform" input="index.jsp"
+			type="actions.city.ActionQhCity">
+			<forward name="ok" path="qiantai/index.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		
+		<action path="/panduan"  input="regedit.html"
+			type="actions.login.PanDuanName">
+		</action>
+
+
+		<action path="/regedit" name="regform" input="zhuce.jsp"
+			type="actions.regedit.ActionRegedit">
+			<forward name="success" path="qiantai/regeditok.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/question" name="questionform"
+			input="woyaotiwen.jsp" type="actions.tuangou.ActionQuestion">
+			<forward name="success" path="qiantai/tiwen.jsp" />
+			<forward name="fail" path="woyaotiwen.jsp" />
+		</action>
+
+		<action path="/editorfriendlink" name="FriendlinkForm"
+			input="youqinglianjie.jsp"
+			type="actions.friendlink.ActionFriendlink">
+			<forward name="success" path="houtai/youqinglianjie.jsp" />
+			<forward name="fail" path="woyaotiwen.jsp" />
+		</action>
+
+		<action path="/addfriendlink" name="FriendlinkForm"
+			input="youqinglianjie.jsp"
+			type="actions.friendlink.ActionAddllink">
+			<forward name="success" path="houtai/youqinglianjie.jsp" />
+			<forward name="fail" path="woyaotiwen.jsp" />
+		</action>
+
+		<action path="/all" name="twform" input="*.jsp"
+			type="actions.talkwith.ActionAllTalkWith">
+			<forward name="success" path="qiantai/all.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/answers" name="answersform" input="newTopic.jsp"
+			type="actions.talkwith.ActionAnswers">
+			<forward name="success" path="qiantai/answers.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/jinan" name="jnform" input="*.jsp"
+			type="actions.talkwith.ActionAddress">
+			<forward name="success" path="qiantai/jinan.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/gonggong" name="ggform" input="*.jsp"
+			type="actions.talkwith.ActionGongGong">
+			<forward name="success" path="qiantai/gonggong.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/huifu" name="hfform" input="*.jsp"
+			type="actions.talkwith.ActionHuiFu">
+			<forward name="success" path="qiantai/huifu.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/new" name="newform" input="newTuangou.jsp"
+			type="actions.tuangou.ActionNewCreate">
+			<forward name="success" path="houtai/index.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/dangqian" name="dqform" input="*.jsp"
+			type="actions.tuangou.ActionDangQian">
+			<forward name="success" path="houtai/dangqian.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/dellink" name="FriendlinkForm"
+			input="youqinglianjie.jsp" type="actions.friendlink.ActionDelLink">
+			<forward name="success" path="houtai/youqinglianjie.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/deldayi" name="questionform"
+			input="tuangoudayi.jsp" type="actions.tuangou.ActionDelQuestion">
+			<forward name="success" path="houtai/tuangoudayi.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/changedayi" name="questionform"
+			input="tuangoudayi.jsp" type="actions.tuangou.ActionGaiQuestion">
+			<forward name="success" path="houtai/tuangoudayi.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/dafu" name="questionform" input="tuangoudayi.jsp"
+			type="actions.tuangou.ActionCheckQuestion">
+			<forward name="success" path="houtai/tuanyihuifu.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/bj" name="bjform" input="*.jsp"
+			type="actions.tuangou.ActionBianJi">
+			<forward name="success" path="houtai/bianji.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/update" name="upform" input="*.jsp"
+			type="actions.tuangou.ActionUpdate">
+			<forward name="success" path="houtai/bianji.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/del" name="delform" input="dangqian.jsp"
+			type="actions.tuangou.ActionDelInfo">
+			<forward name="success" path="houtai/dangqian.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/bjuser" name="bjusers" input="userlist.jsp"
+			type="actions.users.BianjiUsers">
+			<forward name="success" path="houtai/bianjiuser.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/bjuserinfo" name="bjusers" input="bianjiuser.jsp"
+			type="actions.users.ChangUser">
+			<forward name="success" path="houtai/userlist.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+
+		<!-- 申建勋  -->
+
+		<action  path="/buy" name="BuyForm" input="checkdingdan.jsp"
+			type="actions.zhanghu.ActionBuy">
+			<forward name="success" path="qiantai/checkdingdan.jsp" />
+			<forward name="fail" path="../fail.jsp" />
+		</action>
+		<action path="/tjdingdan" name="dindangform" input="mtsh.jsp"
+			type="actions.dingdan.TiJiaoDandang">
+			<forward name="ok" path="qiantai/ningdedindang.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/chongzhi" name="czhi" input="userlist.jsp"
+			type="actions.zhanghu.ActionRemit">
+			<forward name="ok" path="houtai/userlist.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/wfkdel" name="dindangform" input="weifukuan.jsp"
+			type="actions.dingdan.DelDindang">
+			<forward name="ok" path="houtai/weifukuan.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/fukuan" name="bjusers" input="yaofukuan.jsp"
+			type="actions.zhanghu.ActionDelMoney">
+			<forward name="ok" path="qiantai/fukuanok.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+
+		<!-- 黄琳 -->
+		<action path="/xinjian" name="xinjian" input="cityList.jsp"
+			type="actions.city.ActionCityAddLink">
+			<forward name="success" path="houtai/cityList.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/bianjict" name="xinjian" input="cityList.jsp"
+			type="actions.city.ActionCityGaiLink">
+			<forward name="success" path="houtai/cityList.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+		<action path="/delcity" name="xinjian" input="cityList.jsp"
+			type="actions.city.ActionCityDelLink">
+			<forward name="success" path="houtai/cityList.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+
+
+
+		<!-- 颜敏 -->
+		<action path="/delete" name="ShanghuForm" input="mtsh.jsp"
+			type="actions.shanghu.Shanghu">
+			<forward name="mtsh" path="houtai/mtsh.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/houtai/newshanghu" name="NewshForm"
+			input="/houtai/xjsh.jsp" type="actions.shanghu.NewShanghu">
+			<forward name="xjsh" path="xjcg.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+
+		<action path="/bianji" name="BianjiForm" input="shbj.jsp"
+			type="actions.shanghu.Bianji">
+			<forward name="shbj" path="houtai/mtsh.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/shdl" name="shloginform" input="shdl.jsp"
+			type="actions.shanghu.Shlogin">
+			<forward name="success" path="houtai/dangqian.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+
+		<action path="/bianjit" name="BianjiForm" input="shbj.jsp"
+			type="actions.shanghu.Bianjit">
+			<forward name="shbj" path="houtai/shbj.jsp" />
+			<forward name="fail" path="fail.jsp" />
+		</action>
+	</action-mapping>
+
+	<form-beans>
+		<form-bean name="bjusers" type="forms.userform.UserForm" />
+		<form-bean name="loginform" type="forms.userform.UserForm" />
+		<form-bean name="regform" type="forms.userform.UserForm" />
+		<form-bean name="questionform"
+			type="forms.questionform.QuestionForm" />
+		<form-bean name="FriendlinkForm"
+			type="forms.friendlinkform.FriendlinkForm" />
+		<form-bean name="newform" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="twform" type="forms.talkform.TalkWithForm" />
+		<form-bean name="answersform"
+			type="forms.talkform.TalkWithForm" />
+		<form-bean name="ggform" type="forms.talkform.TalkWithForm" />
+		<form-bean name="jnform" type="forms.talkform.TalkWithForm" />
+		<form-bean name="hfform" type="forms.huifu.HuiFuForm" />
+		<form-bean name="newform" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="dqform" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="bjform" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="upform" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="delform" type="forms.tuangou.TuanGouForm" />
+		<!-- 申建勋 -->
+		<form-bean name="BuyForm" type="forms.tuangou.TuanGouForm" />
+		<form-bean name="dindangform" type="forms.dingdan.DqddForm" />
+		<form-bean name="czhi" type="forms.userform.UserForm" />
+		<!-- 颜敏 <form-bean name="regform" type="forms.UserForm" />-->
+		<form-bean name="ShanghuForm" type="forms.shanghu.ShanghuForm" />
+		<form-bean name="NewshForm" type="forms.shanghu.NewshForm" />
+		<form-bean name="BianjiForm" type="forms.shanghu.BianjiForm" />
+		<form-bean name="shloginform" type="forms.shanghu.shloginform" />
+
+		<!-- 黄琳 -->
+		<form-bean name="xinjian" type="forms.city.CityForm" />
+	</form-beans>
+</mystruts-config>

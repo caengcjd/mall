@@ -1,0 +1,18 @@
+package mystruts;
+
+/**
+ * 数据校验类
+ * 
+ * @author liuyong
+ * 
+ */
+public class ActionForm {
+
+	public void reset() {
+
+	}
+
+	public boolean validate() {
+		return false;
+	}
+}
